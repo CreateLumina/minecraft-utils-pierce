@@ -1,5 +1,8 @@
 ![MCLC](/assets/header.png)
 
+This repository contains the [rewritten version of MCLC](https://github.com/Pierce01/MinecraftLauncher-core/pull/124).
+When the PR will be approved, this package will be obsolete
+
 [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Version](https://img.shields.io/badge/stable_version-3.19.0-blue)
 ![Workflow](https://github.com/Pierce01/MinecraftLauncher-core/actions/workflows/tests.yml/badge.svg)

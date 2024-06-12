@@ -1,11 +1,11 @@
 {
-    "name": "minecraft-launcher-core",
-    "version": "3.19.0",
+    "name": "@mclc/main",
+    "version": "4.0.0",
     "description": "Lightweight module that downloads and runs Minecraft using javascript / NodeJS",
     "type": "module",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Pierce01/MinecraftLauncher-core.git"
+        "url": "git+https://github.com/CreateLumina/minecraft-utils-pierce/tree/publish.git"
     },
     "keywords": [
         "minecraft",
@@ -18,9 +18,9 @@
     "funding": "https://github.com/Pierce01/MinecraftLauncher-core?sponsor=1",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Pierce01/MinecraftLauncher-core/issues"
+        "url": "https://github.com/CreateLumina/minecraft-utils-pierce/tree/publish/issues"
     },
-    "homepage": "https://github.com/Pierce01/MinecraftLauncher-core#readme",
+    "homepage": "https://github.com/CreateLumina/minecraft-utils-pierce/tree/publish#readme",
     "main": "./build/cjs/index.js",
     "module": "./build/esm/index.js",
     "types": "./build/esm/index.d.ts",
